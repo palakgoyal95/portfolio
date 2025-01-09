@@ -1,4 +1,14 @@
 Hey everyone,
 <br>
-<h1> Iam Palak goyal.Beginner as a coder.Focusing to learn MERN STACK.</h1>
+<h1><ul>
+  <li>
+    Iam Palak goyal.
+  </li>
+  <li>
+   Beginner as a coder. 
+  </li>
+  <li>
+   Focusing to learn MERN STACK.
+  </li>
+</ul> </h1>
 
