@@ -1,7 +1,4 @@
-# portfolio
-This is my first repository
+Hey everyone,
 <br>
-Author-Palak Goyal
-<br>
-practice of navbar,newyear page using framework tailwind css
+<h1> Iam Palak goyal.Beginner as a coder.Focusing to learn MERN STACK.</h1>
 
