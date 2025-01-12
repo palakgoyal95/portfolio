@@ -1,84 +1,17 @@
+<h1 align="center">Hi 👋, I'm Palak Goyal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>About me</title>
-    <style media="screen">
-    body{
-      background: blue;
-    }
-      .cardcontainer{
-        max-width:600px;
-        margin:2rem auto;
-        background:white;
-        border-radius:15px;
-        overflow:hidden;
-        box-shadow:0 4px 15px rgba(0,0,0,0.1);
-        font-family: -apple-system,BlinkMacSystemFont,'segoe UI',roboto,sans-serif;
-        }
-        .profile-image{
-          width:50%;
-          height: 400px;
-          position: relative;
-          background: url("https://i0.wp.com/picjumbo.com/wp-content/uploads/red-and-blue-pillars-wallpaper-abstract-background-free-image.jpeg?w=600&quality=80");
-          background-size: cover;
-          background-position: center;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          flex-direction: column;
-          color: white;
-          text-align: center;
-          padding: 20px;
-          margin-left: auto;
-          margin-right: auto;
+- 🌱 I’m currently learning **HTML,CSS ,JS ,TAILWIND CSS AND LOOKING FUTHER TO LEARN REACT ADVANCED JS, NODE.JS ANGULAR.JS ,EXPRESS.JS,MONGO DB ETCS**
 
-        }
-        .name{
-          font-size: 2.5rem;
-          font-weight: bold;
-          margin: 0;
-          letter-spacing:1px;
+- 💬 Ask me about **HTML CSS JS**
 
-        }
-        .title{
-          font-size: 1.2rem;
-          margin: 10px 0;
-          max-width: 80%;
-          line-height: 1.4;
-          color:white;
-        }
-        .bio{
-          /*display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;*/
-          background: white;
-          padding: 20px;
-          font-size: 1.1rem;
-          line-height: 1.6;
-          color: #333;
-          width: 50%;
-          margin-left: auto;
-          margin-right: auto;
-        }
-    </style>
-  </head>
-  <body>
-    <figure>
-    <div class="card-container">
+- 📫 How to reach me **palakgoyal296@gmail.com**
 
-      <div class="profile-image">
-        <h1 class="name">PALAK GOYAL </h1>
-        <p class="title">Web Devloper | Desinger | Student in Ambikapur Chhattisgarh </p>
-        </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-        <figcaption class="bio">
-          Howdy,I'm Palak.I'm a web devloper living in Ambikapur Chhattisgarh.Iam fan of programming and web devlopment , and writing. I'm also interested in design and travel. you can read my blog with a click button above.
-        </figcaption>
-          </div>
-        </figure>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-  </body>
-</html>
+       
