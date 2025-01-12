@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palak Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **HTML,CSS ,JS ,TAILWIND CSS AND LOOKING FUTHER TO LEARN REACT ADVANCED JS, NODE.JS ANGULAR.JS ,EXPRESS.JS,MONGO DB ETCS**
+- 🌱 I’m currently learning **HTML,CSS ,JS ,TAILWIND CSS
 
 - 💬 Ask me about **HTML CSS JS**
 
